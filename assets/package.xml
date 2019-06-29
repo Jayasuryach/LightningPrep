@@ -11,6 +11,10 @@
   </types> 
   <types>
     <members>*</members>
+    <name>CustomObject</name>
+  </types> 
+  <types>
+    <members>*</members>
     <name>PermissionSet</name>
   </types>
   <version>46.0</version>
